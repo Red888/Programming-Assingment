@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\bin\Debug\net6.0-windows\StringSorterApp.exe
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\bin\Debug\net6.0-windows\StringSorterApp.deps.json
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\bin\Debug\net6.0-windows\StringSorterApp.runtimeconfig.json
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\bin\Debug\net6.0-windows\StringSorterApp.dll
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\bin\Debug\net6.0-windows\StringSorterApp.pdb
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\LetterSortApp.Form1.resources
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.dll
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\refint\StringSorterApp.dll
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.pdb
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\StringSorterApp.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\C#_CODE\Programming Assignment\02(09_23)EdersonManalo\StringSorterApp\StringSorterApp\obj\Debug\net6.0-windows\ref\StringSorterApp.dll
